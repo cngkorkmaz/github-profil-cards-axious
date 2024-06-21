@@ -1,6 +1,6 @@
 <h1> Github Kullanıcı Arama (Github User Search) </h1>
 
-Bu repoda Github kullanıcı arama, takipçi sayısı, repo sayısı vb. bilgilere kolayca ulaşabilirssiniz. Ayrıca kullanıcının ilk oluşturduğu 3 projenin linkine tıklayarak ulaşabilirisiniz. (In this repo, Github user search, number of followers, number of repos, etc. You can easily access the information. You can also access the first 3 projects created by the user by clicking on the links.)
+Bu repoda Github kullanıcı arama, takipçi sayısı, repo sayısı vb. bilgilere kolayca ulaşabilirssiniz. Ayrıca kullanıcının ilk oluşturduğu 3 projenin linkine tıklayarak ulaşabilirsiniz. (In this repo, Github user search, number of followers, number of repos, etc. You can easily access the information. You can also access the first 3 projects created by the user by clicking on the links.)
 
 # Özellikler
   Axious kullanılarak oluşturulmuştur.
